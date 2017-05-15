@@ -10,9 +10,10 @@ Client application is plain js to make a single page application framework from 
 1. clone the repo.
 
 ### Backend (web api)
-1. open solution in VS
+1. open solution in VS (located in `UrlShortener/UrlShortener.sln`)
 2. install nuget packages (something like this in `package manager` console: `Update-Package -safe -reinstall -IgnoreDependencies`)
-3. run
+3. have a look at [web.config](https://github.com/malekmakan/yas/blob/master/UrlShortener/UrlShortener.Api/Web.config) to make sure all the configurations suits your environment; specially sql server/redis connection string.
+4. run [ you know good! ctrl+f5:) ]
 
 ### client 
 1. install node (ignore if you already installed)
@@ -20,7 +21,8 @@ Client application is plain js to make a single page application framework from 
 3. cd to Client folder
 4. run `npm install`
 5. run `bower install`
-6. run `gulp`
+6. it would be awesome if you can open the [config.js](https://github.com/malekmakan/yas/blob/master/UrlShortenerClient/js/app/service/config.js) file to see if everything if set properly based on your preferences.
+7. run `gulp`
 
 * if everything goes well in your default browser automatically app would be run
 
