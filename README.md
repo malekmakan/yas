@@ -11,7 +11,7 @@ Client application is plain js to make a single page application framework from 
 
 ### Backend (web api)
 1. open solution in VS
-2. install nuget packages 
+2. install nuget packages (something like this in `package manager` console: `Update-Package -safe -reinstall -IgnoreDependencies`)
 3. run
 
 ### client 
