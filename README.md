@@ -27,10 +27,12 @@ Client application is plain js to make a single page application framework from 
 4. run `npm install`
 5. run `bower install`
 6. run `gulp`
-7. if everything goes well in your default browser automatically app would be run
+
+* if everything goes well in your default browser automatically app would be run
 
 ## Good to know!
 If you like to build the client app (minify and uglify js files for any reason) do following steps :
 1. `gulp build`
-2. `build`
-if you dont get any errors `www-built` folder would be created. then you may like to copy content of the build folder to root directory of your web hosting (IIS server or etc).
+2. `build` 
+
+* if you dont get any errors `www-built` folder would be created. then you may like to copy content of the build folder to root directory of your web hosting (IIS server or etc).
