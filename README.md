@@ -15,7 +15,7 @@ Client application is plain js to make a single page application framework from 
 3. have a look at [web.config](https://github.com/malekmakan/yas/blob/master/UrlShortener/UrlShortener.Api/Web.config) to make sure all the configurations suits your environment; specially sql server/redis connection string.
 4. run [ you know good! ctrl+f5:) ]
 
-### client 
+### Client 
 1. install node (ignore if you already installed)
 2. install npm (ignore if you already installed)
 3. cd to Client folder
@@ -38,3 +38,4 @@ If you like to build the client app (minify and uglify js files for any reason) 
 2. make comments reacher 
 3. performance and query logging (for further data mining)
 4. better UI if you dont like what it is
+5. system architect and design pattern diagrams.
