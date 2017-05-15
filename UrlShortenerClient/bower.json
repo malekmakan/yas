@@ -1,0 +1,32 @@
+{
+  "name": "ParvazIranMobile",
+  "description": "a cross-platform script for parvaziran.ir project to be complied with phonegap",
+  "main": "js/index.js",
+  "authors": [
+    "Mohammad MalekMakan (mohammad@malekmakan.com)"
+  ],
+  "license": "MIT",
+  "homepage": "http://m.parvaziran.ir",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "amplify": "^1.1.2",
+    "font-awesome": "~4.3.0",
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.6.3",
+    "jquery-ui": "jquery.ui#^1.11.4",
+    "jquery": "^2.2.1",
+    "jquery-validation": "^1.15.1",
+    "moment": "^2.14.1",
+    "toastr": "^2.1.2",
+    "nprogress": "^0.2.0",
+    "clipboard": "^1.6.1"
+  }
+}
