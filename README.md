@@ -2,9 +2,11 @@
 Yet Another Shortener in .NET
 
 ## What is it ?
-A simple .NET web api compatible with SQL Server and Redis as backend database and using advantages of Javascript as client side application.
+A simple [.NET web api](https://github.com/malekmakan/yas/tree/master/UrlShortener) compatible with SQL Server and Redis as backend database and using advantages of [Javascript](https://github.com/malekmakan/yas/tree/master/UrlShortenerClient) as client side application.
 
-Client application is plain js to make a single page application framework from scratch and also I included backend project with a fair design pattern.
+Client application is plain js to make a single page application framework from scratch which is light and simple enough to use in any kide of client app working with APIs.
+
+Both Fron/Back-End applications are well structured. (fair enough for now)
 
 ## How to run?
 1. clone the repo.
