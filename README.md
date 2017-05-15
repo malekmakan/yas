@@ -6,12 +6,6 @@ A simple .NET web api compatible with SQL Server and Redis as backend database a
 
 Client application is plain js to make a single page application framework from scratch and also I included backend project with a fair design pattern.
 
-## What is next?
-1. some unit test around functional sections
-2. make comments reacher 
-3. performance and query logging (for further data mining)
-4. better UI if you dont like what it is
-
 ## How to run?
 1. clone the repo.
 
@@ -36,3 +30,9 @@ If you like to build the client app (minify and uglify js files for any reason) 
 2. `build` 
 
 * if you dont get any errors `www-built` folder would be created. then you may like to copy content of the build folder to root directory of your web hosting (IIS server or etc).
+
+## What is next?
+1. some unit test around functional sections
+2. make comments reacher 
+3. performance and query logging (for further data mining)
+4. better UI if you dont like what it is
