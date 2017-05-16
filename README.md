@@ -1,5 +1,5 @@
 # YAS
-Yet Another Shortener in .NET
+Yet Another Shortener with .NET
 
 ## What is it ?
 A simple [.NET web api](https://github.com/malekmakan/yas/tree/master/UrlShortener) compatible with SQL Server and Redis as backend database and using advantages of [Javascript](https://github.com/malekmakan/yas/tree/master/UrlShortenerClient) as client side application.
@@ -7,6 +7,9 @@ A simple [.NET web api](https://github.com/malekmakan/yas/tree/master/UrlShorten
 Client application is plain js to make a single page application framework from scratch which is light and simple enough to use in any kide of client app working with APIs.
 
 Both Fron/Back-End applications are well structured. (fair enough for now)
+
+## Demo
+[http://yasdotnet.azurewebsites.net/](http://yasdotnet.azurewebsites.net/)
 
 ## How to run?
 1. clone the repo.
